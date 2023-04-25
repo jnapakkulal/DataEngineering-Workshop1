@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import psycopg2
 
-#
+#edited the script
 url = 'https://blog.python.org/'
 response = requests.get(url)
 
